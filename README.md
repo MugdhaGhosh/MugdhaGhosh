@@ -1,5 +1,7 @@
 # Hi 👋, I'm Mugdha Ghosh
 #### A passionate frontend developer from Bangladesh
+![](https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/613435552_925163323415703_3595582286366649460_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE4tqaLZ8FIqONfN-n7aPUlaDjdtW-2zjpoON21b7bOOlXcVXH-kyUwTo-e2cSo1Xx6q1yQwPjxRklsoSjU9xZg&_nc_ohc=XDXxf1qYeG0Q7kNvwGd02tV&_nc_oc=AdlwQaNXIWKKTkvghLIdxhqpj81bclYmtFOzzpAySnrxUnY4fXPaNRrEfIAFQa3hsUo&_nc_zt=23&_nc_ht=scontent.fcgp3-2.fna&_nc_gid=axboTj2f0QbFMQAHxF0D9Q&oh=00_AfoPTX4-85FwwFyxdcJOmmoQbMbatjEmq0L4hsM9XvuCnw&oe=6966C04F)
+
 I am a student of Computer Science and Engineering . I know C programming , HTML and have recently learned java
 
 Skills: C / HTML 
@@ -50,4 +52,8 @@ Skills: C / HTML
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MugdhaGhosh&show_icons=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/MugdhaGhosh/contributions?format=svg&private=false)  
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
