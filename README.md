@@ -1,4 +1,4 @@
-######  Hi 👋, I'm Mugdha Ghosh
+# Hi 👋, I'm Mugdha Ghosh
 #### A passionate frontend developer from Bangladesh
 I am a student of Computer Science and Engineering . I know C programming , HTML and have recently learned java
 
