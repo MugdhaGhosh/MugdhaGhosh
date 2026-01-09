@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mugdha Ghosh</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, Hi 👋, I'm Mugdha Ghosh
+#### A passionate frontend developer from Bangladesh
+![A passionate frontend developer from Bangladesh](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/573267856_870648238867212_6269892125738906801_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEgGmVVTrhh6h3jCi-jb9GGxVhWfR8SbgnFWFZ9HxJuCeRhMyDRv9KNCHdrx3oCtD5_8pfTmEAeQcsvjxTERExR&_nc_ohc=S1zcCM-MxPkQ7kNvwFff0Zr&_nc_oc=AdmSLqkyz-Ysv7-KKDDNBKYAGJ_twU1M8i1WlUQ3SFmkgvtYQtwFvrBEUWYz5VpbfC0&_nc_zt=23&_nc_ht=scontent.fcgp3-1.fna&_nc_gid=4WDBUec0DSINlIW3hGDW7A&oh=00_AfohbfcRvC4AWlIAhjLwRzIhkvIdyZlJ_oiqVaMwk52Rlw&oe=69668E71)
 
-- 🌱 I’m currently learning **JAVA & DSA &**
+I am a student of Computer Science and Engineering . I know C programming , HTML and have recently learned java
 
-- 📫 How to reach me **ghoshmugdha88@gmail.com**
+Skills: C / HTML 
+
+- 🔭 I’m currently working on this page. 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about 🌱 I’m currently learning JAVA & DSA 
+- 📫 How to reach me: mailto:ghoshmugdha88@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,8 +23,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mugdha-ghosh-8972863a5" target="_blank">
+  <!-- LinkedIn (Updated) -->
+  <a href="https://www.linkedin.com/in/mugdha-ghosh-993684388" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
@@ -32,8 +38,27 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 
+  <!-- Threads -->
+  <a href="https://www.threads.com/@mugdha6113" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/threads.svg" alt="Threads" height="30" width="40" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/mugdh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
+  </a>
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MugdhaGhosh)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/MugdhaGhosh)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MugdhaGhosh)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MugdhaGhosh&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/MugdhaGhosh/contributions?format=svg&private=false)  
+
