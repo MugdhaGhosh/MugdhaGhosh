@@ -2,11 +2,9 @@
 ### A passionate frontend developer from Bangladesh
 <p align="center">
   <img src="https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/611170612_925168980081804_3166248767117043413_n.jpg"
-       alt="Profile Image"
-       width="200"
-       style="border-radius: 50%;" />
+       alt="Banner Image"
+       width="100%" />
 </p>
-
 I am a student of Computer Science and Engineering . I know C programming , HTML and have recently learned java
 
 Skills: C / HTML 
