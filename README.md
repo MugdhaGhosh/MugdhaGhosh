@@ -32,15 +32,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 
-  <!-- Threads -->
-  <a href="https://www.threads.com/@mugdha6113" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/threads.svg" alt="Threads" height="30" width="40" />
-  </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/mugdh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
-  </a>
 </p>
 
 
