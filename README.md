@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mugdha Ghosh
 ### A passionate frontend developer from Bangladesh
-![I am GitHub Readme Generator's creator](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/615155403_926912396574129_2410695672616824008_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFoHJoHKH4E-_F2M7htWVfvUfUy9PS2coxR9TL09LZyjBr0roW1VqJIYN8GMSWXeac07sBnbx0s7UmykkF-ne-E&_nc_ohc=p0ZVsmDi1NcQ7kNvwEuu5hv&_nc_oc=Admf01TDLiOnIng_4_1HuwURN7GS7mdhL446Htqy-Wu9tCjKZmXv7eL5apGuRESeioM&_nc_zt=23&_nc_ht=scontent.fcgp3-1.fna&_nc_gid=QVVrNBtrCT0e6xVIQOaR9A&oh=00_AfrTZT9ZKK3-igX3tDNH-Ldj1uIXgF3lBV3QggGkaIfuAw&oe=69698C2C)
+![I am GitHub Readme Generator's creator](https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/615170454_926943696570999_2739631859240246969_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGG7XM3V9ZxWDyyKeL4tIqKLhucDAONy10uG5wMA43LXaV76jtAHyUuzLvFVSe6vtZ47KtM3mEB4ixSOniOv1yR&_nc_ohc=ls5Xph5KzTkQ7kNvwG13Rl_&_nc_oc=AdkmMRpr3Nt9wvEs5ENG_o4GHc1ggjthAMjbCnI9UD3GsA0cBEhjAriYyS6ye57RotM&_nc_zt=23&_nc_ht=scontent.fcgp3-2.fna&_nc_gid=68ErZZ9wLebTdvoEX_WNEQ&oh=00_Afqrunq7APLGB5FEDToYxXZwG0sZIMvzpKXCy8w-1LAUYw&oe=69698DAE)
 
 I am a student of Computer Science and Engineering . I know C programming , HTML and have recently learned java
 
