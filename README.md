@@ -1,12 +1,14 @@
 # Hi 👋, I'm Mugdha Ghosh
 ### A passionate frontend developer from Bangladesh
+![I am GitHub Readme Generator's creator](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/615155403_926912396574129_2410695672616824008_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFoHJoHKH4E-_F2M7htWVfvUfUy9PS2coxR9TL09LZyjBr0roW1VqJIYN8GMSWXeac07sBnbx0s7UmykkF-ne-E&_nc_ohc=p0ZVsmDi1NcQ7kNvwEuu5hv&_nc_oc=Admf01TDLiOnIng_4_1HuwURN7GS7mdhL446Htqy-Wu9tCjKZmXv7eL5apGuRESeioM&_nc_zt=23&_nc_ht=scontent.fcgp3-1.fna&_nc_gid=QVVrNBtrCT0e6xVIQOaR9A&oh=00_AfrTZT9ZKK3-igX3tDNH-Ldj1uIXgF3lBV3QggGkaIfuAw&oe=69698C2C)
+
 I am a student of Computer Science and Engineering . I know C programming , HTML and have recently learned java
-<b>Skills: C / HTML </b>
+
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on github 
 -  🌱 I’m currently learning JAVA & DSA 
 - 📫 How to reach me: mailto:ghoshmugdha88@gmail.com 
-
+Skills: C / HTML
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Facebook -->
