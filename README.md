@@ -1,8 +1,7 @@
 # Hi 👋, I'm Mugdha Ghosh
 ### A passionate frontend developer from Bangladesh
-<p align="center">
-  <img src="615155403_926912396574129_2410695672616824008_n.jpg" alt="Profile Image" width="400">
-</p>
+![Profile Banner](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/615155403_926912396574129_2410695672616824008_n.jpg)
+
 I am a student of Computer Science and Engineering . I know C programming , HTML and have recently learned java
 Skills: C / HTML 
 - 🔭 I’m currently working on this page. 
