@@ -1,6 +1,7 @@
 # Hi 👋, I'm Mugdha Ghosh
 ### A passionate frontend developer from Bangladesh
-![](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/611170612_925168980081804_3166248767117043413_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG4VtL2YrTcLmWjppOypBgZK5dgVnrHGzMrl2BWescbM9dBCxtZfuFAWQBH2Zy-M8A4NAAy1IU_XsiWeSuwgABT&_nc_ohc=AbyrhYP_ygcQ7kNvwFVg-f-&_nc_oc=AdmjHu85Cea3NLP0FicdVVkzS7Zw0Q6m3VDlvTue6AI0KjO8ReUKC2RD7imFHJr9cls&_nc_zt=23&_nc_ht=scontent.fcgp3-1.fna&_nc_gid=ebLPWPXkK7cQf81_I0g1XA&oh=00_AfoCMWgVn20AUH1m87yJUySQqt6_3IzhAJcD19pXXR5JhQ&oe=6966C25D)I am a student of Computer Science and Engineering . I know C programming , HTML and have recently learned java
+![](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/615151341_926909749907727_9116511133537158323_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHImbNQjSjSTYu_d_fvWr1lUqSq344j_cxSpKrfjiP9zKHw8tx1Uie4uH6-4llfK_8r-eelbSYkXW074MIgR9s0&_nc_ohc=9-hdunQojocQ7kNvwHvP4Qa&_nc_oc=AdmekdDiDibKjnQHUBpQRMrKvic115M6ypvD0ATCOcPLp3TdqAo8M1AHJBbt4AT1VZA&_nc_zt=23&_nc_ht=scontent.fcgp3-1.fna&_nc_gid=7RzjYsi7ifJwJGGMknbz2Q&oh=00_AfrZEPZ98BCAppOeIZl04Cd8j5chlqRZuCgKty6AmbNlkA&oe=69699194)
+I am a student of Computer Science and Engineering . I know C programming , HTML and have recently learned java
 Skills: C / HTML 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on github 
